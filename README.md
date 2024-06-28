@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A DevOps / SRE from Philippines/Singapore
+  DevOps from Philippines/Singapore
 </p>
 
 
